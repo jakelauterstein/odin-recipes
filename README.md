@@ -2,6 +2,8 @@
 
 A pure HTML site for practice using link tags, git, and HTML boilerplate.
 
+[Click here for site demo](https://jakelauterstein.github.io/odin-recipes/)
+
 ## Description
 
 ## Authors
